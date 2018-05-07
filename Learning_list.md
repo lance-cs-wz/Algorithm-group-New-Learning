@@ -16,14 +16,23 @@
         http://www.open-open.com/news/view/bddc66
         
  2）卷积神经网络（Conventional Neural Network，CNN）：
+ 
           http://blog.csdn.net/stdcoutzyx/article/details/41596663
+          
           http://www.cnblogs.com/GarfieldEr007/p/5342906.html
+          
           http://blog.csdn.net/zouxy09/article/details/8781543/
+          
           http://www.leiphone.com/news/201608/zaB48AcZ1AFm1TaP.html
+          
  3）递归神经网络（Recurrent Neural Network，RNN）：
+ 
           https://www.jianshu.com/p/9dc9f41f0b29
+          
  4）注意力机制（Attention Model ，AM）：
+ 
           http://blog.csdn.net/malefactor/article/details/50550211
+          
 
 【Linux 下常用工具】
 0、vim：高效文本编辑器
