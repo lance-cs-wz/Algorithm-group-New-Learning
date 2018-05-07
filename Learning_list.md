@@ -13,7 +13,8 @@
 二、快速理解
 
 1）神经网络：
-         http://www.open-open.com/news/view/bddc66
+        http://www.open-open.com/news/view/bddc66
+        
  2）卷积神经网络（Conventional Neural Network，CNN）：
           http://blog.csdn.net/stdcoutzyx/article/details/41596663
           http://www.cnblogs.com/GarfieldEr007/p/5342906.html
