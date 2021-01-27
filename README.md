@@ -1,6 +1,8 @@
 # Algorithm-group-New-Learning  
 算法组新人学习  
 
+代码为ipynb的笔记，可用colab打开。  
+
 从多方面介绍算法学习路径  
 【经典算法】  
 【高级数据结构】  
